@@ -1,5 +1,6 @@
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Wirlie&show_icons=true&theme=algolia&count_private=true)
 
+<img src="https://cdn.discordapp.com/attachments/315604446900125706/779641606004408340/PizzaWirlie.jpg" height="200px" />
 
 <!--
 **Wirlie/Wirlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
