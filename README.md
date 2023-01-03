@@ -1,4 +1,4 @@
-🔭 Mainly focused as backend developer using Spring Boot (Kotlin/Java), but I also have knowledge about frontend development using Angular 12.
+🔭 Mainly focused as backend developer (Kotlin/Java), but I also have knowledge in other languages such Javascript, Typescript, C#, C++, PHP, CSS, SCSS, HTML, Ruby.
 
 🌱 Programming has no limits (except for physical limitations such as hardware resources), it is a universe in which we can explore and in which we can develop our creative and logical skills. The number of possibilities to solve a problem are infinite and we are free to use our imagination and our reasoning to make the best and optimized way to solve it, so, in fact, programming is a kind of art, that unfortunately, many times everyone not sees.
 
