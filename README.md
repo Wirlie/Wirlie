@@ -11,16 +11,10 @@
 
   <p>
     <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api?username=Wirlie&show_icons=true&theme=algolia&count_private=true&include_all_commits=true"
-      />
-      <img height="190px" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Wirlie&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height="190px" />
     </picture>
     <picture>
-      <source 
-        srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Wirlie&theme=algolia&layout=compact&langs_count=10"
-      />
-      <img />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wirlie&theme=algolia&layout=compact&langs_count=10" />
     </picture>
   </p>
 
