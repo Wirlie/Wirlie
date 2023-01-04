@@ -1,6 +1,25 @@
-🔭 Mainly focused as backend developer (Kotlin/Java), but I also have knowledge in other languages such Javascript, Typescript, C#, C++, PHP, CSS, SCSS, HTML, Ruby.
+🔭 Mainly focused as backend developer, but I also have knowledge with other languages and frameworks. 
 
-🌱 Programming has no limits (except for physical limitations such as hardware resources), it is a universe in which we can explore and in which we can develop our creative and logical skills. The number of possibilities to solve a problem are infinite and we are free to use our imagination and our reasoning to make the best and optimized way to solve it, so, in fact, programming is a kind of art, that unfortunately, many times everyone not sees.
+<details open>
+  <summary><h2>Languages:</h2></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Java-FF3800.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Kotlin-7F52FF.svg?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=flat-square&logo=Dart&logoColor=white"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E.svg?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Typescript-3178C6.svg?style=flat-square&logo=Typescript&logoColor=white"/> <img src="https://img.shields.io/badge/C Sharp-239120.svg?style=flat-square&logo=C Sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C%2B%2B-00599C.svg?style=flat-square&logo=C%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat-square&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=flat-square&logo=Sass&logoColor=white"/> <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=flat-square&logo=PHP&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC0000.svg?style=flat-square&logo=Ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3776AB.svg?style=flat-square&logo=Python&logoColor=white"/>
+  </p>
+</details>
+
+<details open>
+  <summary><h2>Databases:</h2></summary>
+  <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sybase-gray.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
+  </p>
+</details>
+
+<details open>
+  <summary><h2>Frameworks:</h2></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=flat-square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby on Rails-CC0000.svg?style=flat-square&logo=Ruby on Rails&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat-square&logo=jQuery&logoColor=white"/>
+  </p>
+</details>
 
 ----
 
@@ -28,6 +47,12 @@
     </picture>
   </p>
 </details>
+
+----
+
+<p>
+  🌱 Programming has no limits (except for physical limitations such as hardware resources), it is a universe in which we can explore and in which we can develop our creative and logical skills. The number of possibilities to solve a problem are infinite and we are free to use our imagination and our reasoning to make the best and optimized way to solve it, so, in fact, programming is a kind of art, that unfortunately, many times everyone not sees.
+</p>
 
 <!--
 **Wirlie/Wirlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
