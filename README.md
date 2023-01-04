@@ -27,25 +27,20 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   
   <h3>💻 GitHub Profile Stats</h2>
-
-  <p>
     <picture>
       <img src="https://github-readme-stats.vercel.app/api?username=Wirlie&show_icons=true&theme=algolia&count_private=true&include_all_commits=true" height="190px" />
     </picture>
     <picture>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wirlie&theme=algolia&layout=compact&langs_count=10" />
     </picture>
-  </p>
 
   **Note:** Top languages is only a metric and doesn't reflect experience or skill level.
 
   <h3>🔥 Streak Stats</h3>
 
-  <p>
-    <picture>
-      <img src="https://streak-stats.demolab.com/?user=Wirlie&theme=algolia" />
-    </picture>
-  </p>
+  <picture>
+    <img src="https://streak-stats.demolab.com/?user=Wirlie&theme=algolia" />
+  </picture>
 </details>
 
 ----
