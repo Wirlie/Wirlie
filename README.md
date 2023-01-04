@@ -8,16 +8,16 @@
 </details>
 
 <details open>
-  <summary><h2>Databases:</h2></summary>
+  <summary><h2>Frameworks:</h2></summary>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sybase-gray.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=flat-square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby on Rails-CC0000.svg?style=flat-square&logo=Ruby on Rails&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat-square&logo=jQuery&logoColor=white"/>
   </p>
 </details>
 
 <details open>
-  <summary><h2>Frameworks:</h2></summary>
+  <summary><h2>Databases:</h2></summary>
   <p>
-    <img src="https://img.shields.io/badge/Spring-6DB33F.svg?style=flat-square&logo=Spring&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F.svg?style=flat-square&logo=Spring Boot&logoColor=white"/> <img src="https://img.shields.io/badge/Spring Security-6DB33F.svg?style=flat-square&logo=Spring Security&logoColor=white"/> <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=flat-square&logo=Angular&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB.svg?style=flat-square&logo=React&logoColor=black"/> <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby on Rails-CC0000.svg?style=flat-square&logo=Ruby on Rails&logoColor=white"/> <img src="https://img.shields.io/badge/Express-000000.svg?style=flat-square&logo=Express&logoColor=white"/> <img src="https://img.shields.io/badge/jQuery-0769AD.svg?style=flat-square&logo=jQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sybase-gray.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927.svg?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
   </p>
 </details>
 
