@@ -17,7 +17,14 @@
 <details open>
   <summary><h2>Databases:</h2></summary>
   <p>
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sybase-gray.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/>
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=flat-square&logo=MySQL&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-4479A1.svg?style=flat-square&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-003B57.svg?style=flat-square&logo=SQLite&logoColor=white"/> <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=flat-square&logo=PostgreSQL&logoColor=white"/> <img src="https://img.shields.io/badge/Sybase-gray.svg?style=flat-square"/> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927.svg?style=flat-square&logo=Microsoft%20SQL%20Server&logoColor=white"/> <img src="https://img.shields.io/badge/Redis-ff4b00.svg?style=flat-square&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/H2%20Database-0037ff.svg?style=flat-square&logo=h2database&logoColor=white"/>
+  </p>
+</details>
+
+<details open>
+  <summary><h2>Other tools, libraries and platforms:</h2></summary>
+  <p>
+    <img src="https://img.shields.io/badge/Eslint-007eff.svg?style=flat-square&logo=eslint&logoColor=white"/> <img src="https://img.shields.io/badge/Git-ff7800.svg?style=flat-square&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/Red%20Hat%20OpenShift%204-ff0000.svg?style=flat-square&logo=redhatopenshift&logoColor=white"/> <img src="https://img.shields.io/badge/Red%20Hat%20OpenShift%203-ff0000.svg?style=flat-square&logo=redhatopenshift&logoColor=white"/> <img src="https://img.shields.io/badge/SonarLint-464646.svg?style=flat-square&logo=sonarlint&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-f1f1f1.svg?style=flat-square&logo=github&logoColor=black"/> <img src="https://img.shields.io/badge/Bitbucket-00a3ff.svg?style=flat-square&logo=bitbucket&logoColor=white"/> <img src="https://img.shields.io/badge/ClickUp-ff0069?style=flat-square&logo=clickup&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-008fda?style=flat-square&logo=intellijidea&logoColor=white"/>
   </p>
 </details>
 
